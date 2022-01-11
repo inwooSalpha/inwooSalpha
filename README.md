@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inwooSalpha
+- 👋 Hi, I’m @inwoo
 - 👀 I’m interested in iOS
 - 🌱 I’m currently learning iOS/Swift, Clean Code, Clean Architecture
 - 💞️ I’m looking to collaborate on ...
